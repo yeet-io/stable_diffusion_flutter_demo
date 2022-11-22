@@ -1,16 +1,13 @@
 # stable_diffusion_demo
 
-A new Flutter project.
+Stable Diffusion Image Generator App built with [Flutter](https://flutter.dev/).
+
+Image Generation is provided by [Stability AI](https://stability.ai/)'s [Dream Studio](https://beta.dreamstudio.ai/) API. [`stability_ai`](https://pub.dev/packages/stability_ai) package is the API client.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. [Setup your development environment](https://yeet.io/posts/flutter-tutorial/part-1/).
+2. `git clone https://github.com/yeet-io/stable_diffusion_flutter_demo.git`
+3. Open iOS `Simulator`
+4. `cd stable_diffusion_flutter_demo && flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
